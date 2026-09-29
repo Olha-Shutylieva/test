@@ -15,9 +15,9 @@ Example:
 Enter the radius: 5
 Perimeter: 31.41592653589793
 Area: 78.53981633974483
- * ScannerExample
+ * 
  */
-public class ScannerExample {
+public class FlowerBedCalculator {
     public static void main(String[] args) {
        Scanner scanner = new Scanner(System.in);
        System.out.println("Enter the radius: ");
